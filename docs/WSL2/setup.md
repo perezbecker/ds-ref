@@ -19,8 +19,3 @@ Press <enter> to keep the current choice[*], or type selection number: 2
 update-alternatives: using /usr/bin/wslview to provide 
 /usr/bin/x-www-browser (x-www-browser) in manual mode
 ```
-
-```python
-import test
-
-```
