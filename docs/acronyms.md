@@ -3,6 +3,7 @@
 To sort lines alphabetically below this header run the following command in vim: `:6,$sort i`
 
 ---
+- __DCU__ - Digital Crimes Unit
 - __HPO__ - Hyper Parameter Optimization
 - __MIR__ - Managed Inference Resource
 - __OFE__ - Online Feature Extraction
